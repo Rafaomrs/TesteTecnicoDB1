@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteGeografia", "TesteGeografia\TesteGeografia.csproj", "{9E33B224-9F5D-434F-BE4F-3DC997F0360C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E33B224-9F5D-434F-BE4F-3DC997F0360C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E33B224-9F5D-434F-BE4F-3DC997F0360C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E33B224-9F5D-434F-BE4F-3DC997F0360C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E33B224-9F5D-434F-BE4F-3DC997F0360C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

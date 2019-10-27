@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/rafaelmorais/Desktop/TesteDB1/TestePortugues/TestePortugues/TestePortugues.csproj": {}
+  },
+  "projects": {
+    "/Users/rafaelmorais/Desktop/TesteDB1/TestePortugues/TestePortugues/TestePortugues.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rafaelmorais/Desktop/TesteDB1/TestePortugues/TestePortugues/TestePortugues.csproj",
+        "projectName": "TestePortugues",
+        "projectPath": "/Users/rafaelmorais/Desktop/TesteDB1/TestePortugues/TestePortugues/TestePortugues.csproj",
+        "packagesPath": "/Users/rafaelmorais/.nuget/packages/",
+        "outputPath": "/Users/rafaelmorais/Desktop/TesteDB1/TestePortugues/TestePortugues/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/rafaelmorais/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

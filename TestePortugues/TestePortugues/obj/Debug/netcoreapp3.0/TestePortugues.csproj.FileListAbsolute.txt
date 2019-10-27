@@ -1,0 +1,11 @@
+/Users/rafaelmorais/Desktop/TesteDB1/TestePortugues/TestePortugues/bin/Debug/netcoreapp3.0/TestePortugues
+/Users/rafaelmorais/Desktop/TesteDB1/TestePortugues/TestePortugues/bin/Debug/netcoreapp3.0/TestePortugues.deps.json
+/Users/rafaelmorais/Desktop/TesteDB1/TestePortugues/TestePortugues/bin/Debug/netcoreapp3.0/TestePortugues.runtimeconfig.json
+/Users/rafaelmorais/Desktop/TesteDB1/TestePortugues/TestePortugues/bin/Debug/netcoreapp3.0/TestePortugues.runtimeconfig.dev.json
+/Users/rafaelmorais/Desktop/TesteDB1/TestePortugues/TestePortugues/bin/Debug/netcoreapp3.0/TestePortugues.dll
+/Users/rafaelmorais/Desktop/TesteDB1/TestePortugues/TestePortugues/bin/Debug/netcoreapp3.0/TestePortugues.pdb
+/Users/rafaelmorais/Desktop/TesteDB1/TestePortugues/TestePortugues/obj/Debug/netcoreapp3.0/TestePortugues.csprojAssemblyReference.cache
+/Users/rafaelmorais/Desktop/TesteDB1/TestePortugues/TestePortugues/obj/Debug/netcoreapp3.0/TestePortugues.AssemblyInfoInputs.cache
+/Users/rafaelmorais/Desktop/TesteDB1/TestePortugues/TestePortugues/obj/Debug/netcoreapp3.0/TestePortugues.AssemblyInfo.cs
+/Users/rafaelmorais/Desktop/TesteDB1/TestePortugues/TestePortugues/obj/Debug/netcoreapp3.0/TestePortugues.dll
+/Users/rafaelmorais/Desktop/TesteDB1/TestePortugues/TestePortugues/obj/Debug/netcoreapp3.0/TestePortugues.pdb

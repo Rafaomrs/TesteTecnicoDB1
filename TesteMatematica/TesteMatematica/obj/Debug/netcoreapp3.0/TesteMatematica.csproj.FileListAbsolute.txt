@@ -1,0 +1,11 @@
+/Users/rafaelmorais/Desktop/TesteDB1/TesteMatematica/TesteMatematica/bin/Debug/netcoreapp3.0/TesteMatematica
+/Users/rafaelmorais/Desktop/TesteDB1/TesteMatematica/TesteMatematica/bin/Debug/netcoreapp3.0/TesteMatematica.deps.json
+/Users/rafaelmorais/Desktop/TesteDB1/TesteMatematica/TesteMatematica/bin/Debug/netcoreapp3.0/TesteMatematica.runtimeconfig.json
+/Users/rafaelmorais/Desktop/TesteDB1/TesteMatematica/TesteMatematica/bin/Debug/netcoreapp3.0/TesteMatematica.runtimeconfig.dev.json
+/Users/rafaelmorais/Desktop/TesteDB1/TesteMatematica/TesteMatematica/bin/Debug/netcoreapp3.0/TesteMatematica.dll
+/Users/rafaelmorais/Desktop/TesteDB1/TesteMatematica/TesteMatematica/bin/Debug/netcoreapp3.0/TesteMatematica.pdb
+/Users/rafaelmorais/Desktop/TesteDB1/TesteMatematica/TesteMatematica/obj/Debug/netcoreapp3.0/TesteMatematica.csprojAssemblyReference.cache
+/Users/rafaelmorais/Desktop/TesteDB1/TesteMatematica/TesteMatematica/obj/Debug/netcoreapp3.0/TesteMatematica.AssemblyInfoInputs.cache
+/Users/rafaelmorais/Desktop/TesteDB1/TesteMatematica/TesteMatematica/obj/Debug/netcoreapp3.0/TesteMatematica.AssemblyInfo.cs
+/Users/rafaelmorais/Desktop/TesteDB1/TesteMatematica/TesteMatematica/obj/Debug/netcoreapp3.0/TesteMatematica.dll
+/Users/rafaelmorais/Desktop/TesteDB1/TesteMatematica/TesteMatematica/obj/Debug/netcoreapp3.0/TesteMatematica.pdb
