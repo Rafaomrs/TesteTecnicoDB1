@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{9E33B224-9F5D-434F-BE4F-3DC997F0360C}|Default">
+  <MonoDevelop.Ide.ItemProperties.TesteGeografia PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TesteGeografia" expanded="True">
+            <Node name="TesteGeografia" expanded="True">
+              <Node name="City.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -12,6 +12,7 @@
     <Compile Remove="Entities\CapitaisEnum.cs" />
     <Compile Remove="Entities\**" />
     <Compile Remove="CapitaisEnum.cs" />
+    <Compile Remove="ConjuntoCidades.cs" />
   </ItemGroup>
 
   <ItemGroup>
